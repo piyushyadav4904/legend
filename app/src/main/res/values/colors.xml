@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8F2828</color>
+    <color name="colorPrimaryDark">#B56C6C</color>
+    <color name="colorAccent">#875541</color>
+
+
+
+    <color name="white_gray">#634A4A</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="grey">#495058</color>
+    <color name="blue">#0097A7</color>
+    <color name="tabs">#30D7EC</color>
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="tertiary_text">#484848</color>
+    <color name="divider">#bdbdbd</color>
+    <color name="background">#f4f4f4</color>
+    <!-- all colors -->
+    <color name="colorLogin">#ff2b4f</color>
+    <color name="colorOrange">#FF5722</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorGreen">#4cae4c</color>
+    <color name="colorAccentDark">#f96b03</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorCyan">#2e6da4</color>
+    <color name="colorBlue">#2e4edf</color>
+    <color name="colorLightBlue">#46b8da</color>
+    <color name="colorLightOrange">#eea236</color>
+    <color name="colorPurple">#853afa</color>
+    <color name="transparent">#00000000</color>
+
+</resources>
